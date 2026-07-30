@@ -12,5 +12,5 @@ jobs:
         with:
           java-version: '17'
           distribution: 'temurin'
-      - name: Compile Calculator.java
-        run: javac java-practice/Calculator.java
+      - name: Compile calculator.java
+        run: javac java-practice/calculator.java
